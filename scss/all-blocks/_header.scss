@@ -1,0 +1,29 @@
+.header {
+    padding: 71px 0 67px 0;
+}
+
+.header_box {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.header-list {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.header_box_ul {
+    display: flex;
+    gap: 0 42px;
+}
+
+.header_list_b {
+    color: #333136;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 14px;
+    letter-spacing: 2px;
+}

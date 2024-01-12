@@ -1,0 +1,120 @@
+.div_1 {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.her_dic {
+    position: relative;
+}
+
+.section_4 {
+    width: 1111px;
+    height: 292px;
+    position: absolute;
+    top: -200px;
+    left: 0;
+    padding: 72px 0 72px 95px;
+    border-radius: 15px;
+    background: #E7816B;
+}
+
+.text_1 {
+    width: 268px;
+    height: 98px;
+    flex-shrink: 0;
+    color: #FFF;
+
+    font-family: Jost;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 40px;
+}
+
+.text_2 {
+    width: 459px;
+    color: #FFF;
+    font-family: Jost;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 26px;
+}
+
+.btn_2 {
+    width: 152px;
+    height: 56px;
+    color: #333136;
+    font-family: Jost;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    margin-right: 95px;
+    flex-shrink: 0;
+    border-radius: 8px;
+    background: #FFF;
+}
+
+.main_2 {
+    position: absolute;
+    top: -140px;
+    right: 0;
+    display: flex;
+}
+
+.main_3 {
+    position: absolute;
+    bottom: -150px;
+    right: 0;
+    display: flex;
+    align-items: center;
+}
+
+.box_1 {
+    width: 292px;
+    height: 292px;
+    flex-shrink: 0;
+    border-radius: 292px;
+    opacity: 0.3089;
+    background: linear-gradient(90deg, rgba(93, 2, 2, 0.00) 0%, rgba(93, 2, 2, 0.50) 100%);
+}
+
+.box_2 {
+    width: 292px;
+    height: 292px;
+    flex-shrink: 0;
+    border-radius: 292px;
+    opacity: 0.3089;
+    background: linear-gradient(90deg, rgba(93, 2, 2, 0.00) 0%, rgba(93, 2, 2, 0.50) 100%);
+}
+
+.box_3 {
+    width: 292px;
+    height: 292px;
+    flex-shrink: 0;
+    border-radius: 292px;
+    opacity: 0.3089;
+    background: linear-gradient(90deg, rgba(93, 2, 2, 0.00) 0%, rgba(93, 2, 2, 0.50) 100%);
+}
+
+.box_4 {
+    width: 292px;
+    height: 292px;
+    flex-shrink: 0;
+    border-radius: 292px;
+    opacity: 0.3089;
+    background: linear-gradient(90deg, rgba(93, 2, 2, 0.00) 0%, rgba(93, 2, 2, 0.50) 100%);
+}
+
+.box_5 {
+    width: 292px;
+    height: 292px;
+    flex-shrink: 0;
+    border-radius: 292px;
+    opacity: 0.3089;
+    background: linear-gradient(90deg, rgba(93, 2, 2, 0.00) 0%, rgba(93, 2, 2, 0.50) 100%);
+}
